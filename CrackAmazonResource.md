@@ -29,6 +29,8 @@ Difficulty Rating: **Easy | Easy-Medium | Medium | Medium-Hard | Hard**
 
 | Problem Link | Status | Difficulty |
 | ------ | ------ | ------ |
+Your Status can be: **Done ✅ | In Progress🕓 | Skipped❌**
+Your Status can be: **Done ✅ | In Progress🕓 | Skipped❌**
 | [Number of Islands](https://leetcode.com/problems/number-of-islands/)  |  |  |
 | [Partition Labels](https://leetcode.com/problems/partition-labels/) |  |  |
 | [Two Sum](https://leetcode.com/problems/two-sum/) |  |  |
